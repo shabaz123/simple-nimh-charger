@@ -1,6 +1,7 @@
-# simple-nimh-charger
+# Simple Nickel-Metal Hydride Charger
 
 The file export-charger-gerber-rev1_0.zip contains Gerber files ready for uploading to any PCB manufacturer website, for the simple Nickel-Metal Hydride (Ni-MH) Charger.
+With the default component values, the charger is suitable for 4 x AA Ni-MH battery packs, and will take approximately 20 hours to fully charge them. It is believed the charger can be left connected indefinitely to the battery pack, however, NOTE: there is NO GUARANTEE that this circuit will work correctly! Never leave batteries charging unattended or at night time.
 
 <img width="100%" align="left" src="nimh-charger-circuit.jpg">
 <img width="100%" align="left" src="charger-cad.jpg">
